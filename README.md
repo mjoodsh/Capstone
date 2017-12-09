@@ -49,7 +49,7 @@
 
 `[Machine.cpp lines 33-39](/Machine.cpp#L33)`
 
-- This function is to decrypte a charachter by passing it through the reverse sequence of the readed rotors. A non-void function with passing by value has been used because we don't need to change the value of the passed variable and we need to return the decrypted value.
+-This function is to decrypte a charachter by passing it through the reverse sequence of the readed rotors. A non-void function with passing by value has been used because we don't need to change the value of the passed variable and we need to return the decrypted value.
 
 `[CyrusMachine.cpp lines 79-89](/CyrusMachine.cpp#L79)`
 
